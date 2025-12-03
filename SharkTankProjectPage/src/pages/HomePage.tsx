@@ -20,10 +20,12 @@ const HomePage = () => {
         <h1 className="pitch-title">Shark Tank: Proyecto Interactivo</h1>
         
         <p className="pitch-description">
-          Aquí va la descripción del proyecto. Cámbiala desde el código. 
-          Bienvenido a una experiencia única donde las mejores ideas cobran vida. 
-          Prepárate para sumergirte en el mundo de los negocios más competitivo 
-          y descubre si tu propuesta tiene lo necesario para conquistar a los tiburones.
+          Este proyecto desarrolla una simulación multiagente inspirada en Shark Tank dentro 
+          de un entorno 3D en Unity, donde un agente emprendedor presenta propuestas de 
+          negocio y es evaluado por dos agentes jueces con perfiles distintos (conservador e innovador), 
+          quienes analizan criterios como mercado, rentabilidad, innovación y riesgo para tomar una 
+          decisión final de inversión, generando además retroalimentación automática basada 
+          en métricas objetivas y diálogo simulado.
         </p>
 
         <p className="pitch-subtitle">
